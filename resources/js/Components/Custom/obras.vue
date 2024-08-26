@@ -19,7 +19,7 @@
 
 
         
-        <Link  :href="route('obra', {id:1})"  class="hover:text-slate-500 capitalize font-semibold flex items-center flex-row" to="/obras" ><span>Ver Mas</span><svg height="18" viewBox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg" ><g id="icono-flecha" transform="translate(18 18) rotate(180)"><path d="M6,0,4.909,1.091l4.13,4.13H0V6.779H9.039l-4.13,4.13L6,12l6-6Z" data-name="Path 10" id="Path_10" transform="translate(15 15) rotate(180)" fill="currentColor"></path></g></svg>
+        <Link  :href="route('obra', {id:1})"  class="hover:text-slate-500 capitalize font-semibold flex items-center flex-row" ><span>Ver Mas</span><svg height="18" viewBox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg" ><g id="icono-flecha" transform="translate(18 18) rotate(180)"><path d="M6,0,4.909,1.091l4.13,4.13H0V6.779H9.039l-4.13,4.13L6,12l6-6Z" data-name="Path 10" id="Path_10" transform="translate(15 15) rotate(180)" fill="currentColor"></path></g></svg>
         </Link>
         
     </div>
@@ -35,7 +35,7 @@
             Esta ampliación surge de la necesidad de tener un espacio cerrado fuera de la casa principal. Se utilizó de base un parrillero techado para generar una barbacoa completa.
         </p>
 
-        <Link :href="route('obra', {id:2})" class="hover:text-slate-500 capitalize font-semibold flex items-center flex-row" to="/obras" ><span>Ver Mas</span><svg height="18" viewBox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg" ><g id="icono-flecha" transform="translate(18 18) rotate(180)"><path d="M6,0,4.909,1.091l4.13,4.13H0V6.779H9.039l-4.13,4.13L6,12l6-6Z" data-name="Path 10" id="Path_10" transform="translate(15 15) rotate(180)" fill="currentColor"></path></g></svg>
+        <Link :href="route('obra', {id:2})" class="hover:text-slate-500 capitalize font-semibold flex items-center flex-row" ><span>Ver Mas</span><svg height="18" viewBox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg" ><g id="icono-flecha" transform="translate(18 18) rotate(180)"><path d="M6,0,4.909,1.091l4.13,4.13H0V6.779H9.039l-4.13,4.13L6,12l6-6Z" data-name="Path 10" id="Path_10" transform="translate(15 15) rotate(180)" fill="currentColor"></path></g></svg>
         </Link>
     </div>
 
